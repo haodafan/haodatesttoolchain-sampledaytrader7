@@ -1,6 +1,6 @@
 ---
 applications:
-- buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
+- buildpack: https://github.com/cloudfoundry/ibm-websphere-liberty-buildpack.git
   host: haodatesttoolchain-sampledaytrader7
   name: sampledaytrader7
   memory: 64M
